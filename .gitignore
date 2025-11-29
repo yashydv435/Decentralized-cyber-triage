@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# ML model files
+*.h5
+*.joblib
+model-artifacts/
+datasets/
+
+# Hyperledger Fabric sensitive files
+fabric-samples-main/test-network/organizations/
+**/wallet/
+**/keystore/
+
+# Editor & OS
+.vscode/
+.DS_Store
