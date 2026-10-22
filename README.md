@@ -164,6 +164,6 @@ This project is licensed under the MIT License.
 💬 Contact
 
 For queries or collaboration:
-📧 yashyadav435@gmail.com
+📧 yasyaadav@gmail.com
 
 🔥 Developed with passion for Cybersecurity + AI + Blockchain.
