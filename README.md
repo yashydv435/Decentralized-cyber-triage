@@ -76,7 +76,7 @@ Environment	Ubuntu / Docker / WSL2
 Off-chain Storage (optional)	MinIO / S3
 📥 Installation & Setup
 1️⃣ Clone the repo
-git clone https://github.com/yourusername/Decentralized-cyber-triage.git
+git clone https://github.com/yashydv435/Decentralized-cyber-triage.git
 cd Decentralized-cyber-triage
 
 2️⃣ Create virtual environment
